@@ -13,7 +13,7 @@ A yelp-like clone that searches businesses based on criteria.
 
 # How to use
 
-1. Request access by clicking the button https://cors-anywhere.herokuapp.com/corsdemo
+1. Request cors access by clicking the button https://cors-anywhere.herokuapp.com/corsdemo
 2. Visit the link http://ravenous28.surge.sh/
 
 # Technologies
