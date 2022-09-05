@@ -22,6 +22,7 @@ A yelp-like clone that searches businesses based on criteria.
 - JavaScript
 - HTML
 - CSS
+- Yelp api
 - Surge
 
 # Collaborators
